@@ -94,3 +94,16 @@ header nav ul li :hover{
     fill: white;
     border-radius: 100%;
 }
+footer { background-color: #2F303A;}
+footer .logo {
+    color : #FFFFFF;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+}
+footer address{
+    color: #FFFFFF; 
+    font-size: 14px;
+    font-style: normal;
+}
+footer address ul li a{color: var(--grey_text);}
