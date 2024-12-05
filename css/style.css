@@ -35,4 +35,35 @@ header nav ul li :hover{
     color: var(--blue);
     fill: var(--blue);
 }
-
+.order {background-color: #2F303A;}
+.order h1{
+    color: #ffff;
+    font-size: 44px;
+    font-weight:900;
+}
+.order button {
+    background-color:var(--blue);
+    color: #ffff;
+    font-size: 16px;
+    font-weight:700;
+    cursor:pointer;
+    border: 0;
+    border-radius: 4px;
+}
+.advantages ul li .icon{background-color: #F5F4FA;}
+.advantages ul li h3 {
+    font-weight: 700;
+    font-size: 14px;
+}
+.advantages ul li p {color: var(--grey_text);}
+.work h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+.work ul li img{border-radius: 10px;}
+.team{background-color: #F5F4FA;}
+.team h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+.team .workers 
